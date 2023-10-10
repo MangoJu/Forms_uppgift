@@ -60,6 +60,8 @@ transition: all 0.3s ease;
 .input-box input:focus,
 .input-box input:valid{
 border-color: #ef8bf3;
+background-color: rgb(230, 244, 249);
+
 }
 form .policy{
 display: flex;
@@ -79,7 +81,7 @@ background: #d27cf4;
 cursor: pointer;
 }
 .input-box.button input:hover {
-background: #f562f5;
+background: #fd5dfd;
 }
 form .text h3{
  color: #333;
